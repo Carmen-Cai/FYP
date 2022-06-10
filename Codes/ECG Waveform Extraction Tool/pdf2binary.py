@@ -10,7 +10,7 @@ import os
 
 import time
 from PIL import Image,ImageDraw,ImageOps
-folder="NoRecur/" #could be your own folder
+folder="NoRecur/" #could be your own folder.
 
 ### Define functions for converting
 def pol2cart(polar):
