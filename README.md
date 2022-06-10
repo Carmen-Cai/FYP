@@ -32,6 +32,7 @@ N.B. Validation and Test datasets follows the same address rule, with the folder
 
 ## Checkpoints:
 saved in 'GAA data' and 'CNN data' repesctively. 
+
 N.B. The 'GAA_epoch_1.pkl' is an ideal model trained so far for generating waveforms from paper reports.
 
 
