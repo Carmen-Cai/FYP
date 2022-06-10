@@ -1,4 +1,4 @@
-# FYP
+# FYP： Develop artificial intelligence tools for the analysis of ECG signals by using deep learning
 ## In general:
 1. The ECG Waveform Extraction Tool: to extarct waveforms from ECG PDF Reports 
 2. The GAA-CNN model: to generate ECG waveforms and conduct basic diagnosis from ECG Paper Reports 
