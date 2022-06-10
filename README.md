@@ -15,7 +15,11 @@
 The datasets have been split in advanced and saved in 'GAA data' and 'CNN data' respectively, regarding the purpose.
 
 
-## Folders in Google Drive
+## Codes: Saved in Github.
+1. The ECG Waveform Extraction Tool (PyCharm)
+2. The GAA-CNN model (CoLab)
+
+## Google Drive data: 
 ### GAA data:
 1. Checkpoints
 2. Train
@@ -41,12 +45,6 @@ Same as above.
 
 
 N.B. Validation and Test datasets follows the same address rule, with the folder name 'train' changed to 'val' or 'test'.
-
-
-## Codes: Saved in Github.
-1. The ECG Waveform Extraction Tool (PyCharm)
-2. The GAA-CNN model (CoLab)
-
 
 ## Checkpoints:
 saved in 'GAA data' and 'CNN data' repesctively. 
